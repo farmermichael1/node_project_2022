@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(87, 87, 87);
+    color:rgb(255, 255, 255)
+}
+h1 {
+    color: rgb(255, 62, 62);
+  }
